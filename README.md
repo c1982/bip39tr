@@ -5,3 +5,6 @@ I'm working on BIP39 Turkish wordlist for a new project. Those who want to help 
 
 For more information:
 https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md
+
+Implementations:
+https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki#Reference_Implementation
